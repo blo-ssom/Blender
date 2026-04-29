@@ -1,0 +1,32 @@
+# Blender backup files
+*.blend1
+*.blend2
+*.blend3
+*.blend@
+*.blend~
+
+# Temporary / cache
+*.tmp
+*.temp
+*.bak
+cache/
+Cache/
+*.bphys
+
+# Render / export outputs
+renders/
+render/
+output/
+exports/
+
+# Temporary exported models
+*.fbx
+*.obj
+*.glb
+*.gltf
+*.dae
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
